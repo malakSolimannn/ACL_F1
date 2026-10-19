@@ -5,7 +5,7 @@ available **after qualifying and before the race start**.
 
 **Team:** Malak Soliman (58-8162), Aya Elsaadany (58-3074), Lubna Kudsi (58-11314), Jana Elbehesy (58-8233)
 **Kaggle notebook:** https://www.kaggle.com/code/malaksoliman1/milestone-1-f1
-**Report:** [`F1_Podium_Prediction_Report(2).pdf`](F1_Podium_Prediction_Report(2).pdf)
+**Report:** [`F1_Podium_Prediction_Report(2).pdf`](F1_Podium_Prediction_Report (2).pdf)
 
 ## Contents
 
